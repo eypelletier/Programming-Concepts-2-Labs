@@ -1,0 +1,7 @@
+G:\Vanier\OneDrive\OneDrive - Vanier College\Block 2\Programming Concepts 2\Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\Vanier\OneDrive\OneDrive - Vanier College\Block 2\Programming Concepts 2\Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\Vanier\OneDrive\OneDrive - Vanier College\Block 2\Programming Concepts 2\Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\Vanier\OneDrive\OneDrive - Vanier College\Block 2\Programming Concepts 2\Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+G:\Vanier\OneDrive\OneDrive - Vanier College\Block 2\Programming Concepts 2\Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Vanier\OneDrive\OneDrive - Vanier College\Block 2\Programming Concepts 2\Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\Vanier\OneDrive\OneDrive - Vanier College\Block 2\Programming Concepts 2\Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
